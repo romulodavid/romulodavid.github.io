@@ -1577,6 +1577,27 @@ body {
   height: calc(100% - (20px + 4px) * 2);
   background-color: #efefef;
 }
+.cid-rtqf6KBRHi {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+.cid-rtqf6KBRHi .image-block {
+  margin: auto;
+}
+.cid-rtqf6KBRHi figcaption {
+  position: relative;
+}
+.cid-rtqf6KBRHi figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rtqf6KBRHi .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rtls90zp5H {
   padding-top: 60px;
   padding-bottom: 60px;
